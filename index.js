@@ -13,3 +13,7 @@ function deleteFromObjectByKey(object, key) {
   };
       return newObject;
 }
+
+
+Objects deleteFromObjectByKey(object, key) deletes `key` from a clone of object and returns the new object (it is non-destructive)
+Objects deleteFromObjectByKey(object, key) does not modify the original object (it is non-destructive)
