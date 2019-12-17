@@ -20,3 +20,4 @@ function destructivelyDeleteFromObjectByKey(object, key) {
 
 
 Objects destructivelyDeleteFromObjectByKey(object, key) returns object without the delete key/value pair
+Objects destructivelyDeleteFromObjectByKey(object, key) modifies the original object
