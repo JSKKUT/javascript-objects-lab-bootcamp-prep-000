@@ -16,4 +16,3 @@ function deleteFromObjectByKey(object, key) {
 
 
 
-Objects deleteFromObjectByKey(object, key) does not modify the original object (it is non-destructive)
